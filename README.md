@@ -12,14 +12,14 @@ writing up what breaks.
 
 **Featured work**
 
-- **[Assay](https://github.com/sanseryf/assay)** — a JSON payload error identifier.
+- **[Assay](https://github.com/sanseryf/assay)**: a JSON payload error identifier.
   Every error pinned to a path, grouped by root cause, with syntax, schema, setup,
   string and geographic checks, a CLI, an HTTP API and a Docker image.
-- **[Switchyard](https://github.com/sanseryf/switchyard)** — a webhook router whose
+- **[Switchyard](https://github.com/sanseryf/switchyard)**: a webhook router whose
   dead letters carry the validation report that stopped them. Signed ingest,
   deduplication, retries with backoff.
-- **[Homelab Ops Toolkit](https://github.com/sanseryf/homelab-ops-toolkit)** —
-  backup verification, restore drills, compose drift and stack checks. The rule:
+- **[Homelab Ops Toolkit](https://github.com/sanseryf/homelab-ops-toolkit)**: a set of
+  backup verification, restore drill, compose drift and stack check tools. The rule:
   an all-clear is only honest when there was something to clear.
 
 **What I work with**
