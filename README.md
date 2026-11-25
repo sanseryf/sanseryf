@@ -12,21 +12,6 @@ writing up what breaks.
 
 **Featured work**
 
-- **[self-hosted-media-platform](https://github.com/sanseryf/self-hosted-media-platform):**
-  a 9+ service platform behind one sign-on, plus **Hub**, an event-driven
-  integration service over four third-party APIs (FastAPI, asyncpg, Postgres).
-  Includes a [one-command demo](https://github.com/sanseryf/self-hosted-media-platform/tree/master/demo)
-  you can run locally.
-- **[Case studies](https://github.com/sanseryf/self-hosted-media-platform/tree/master/case-studies):**
-  blameless write-ups of real incidents, including a silent onboarding
-  regression, a single-link outage, and a backup that never contained the
-  database it was meant to protect.
-- **[homelab-ops-toolkit](https://github.com/sanseryf/homelab-ops-toolkit):**
-  a restore drill, backup verification, compose drift detection, and a
-  dead-man's-switch job wrapper.
-- **[ops-console-async-migration](https://github.com/sanseryf/ops-console-async-migration):**
-  migrating a live admin console from a synchronous stdlib server to async
-  FastAPI in seven verified phases, with zero downtime.
 
 **What I work with**
 
